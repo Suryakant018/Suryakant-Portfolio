@@ -1,0 +1,34 @@
+[
+  
+  {
+    "name": "TASTE TRACKER",
+    "desc": "Developed and launched Taste Tracker, an innovative culinary companion app, revolutionizing recipe exploration, mastery, and excitement, catering to both seasoned chefs and kitchen novices.",
+    "image": "recipie",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/Suryakant018/TasteTracker",
+      "view": "https://tastetracker.netlify.app/"
+    }
+  },
+  {
+    "name": "CLOUD CAPTAIN",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "cloud",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/Suryakant018/Cloud_Captain",
+      "view": "https://cloudcaptain.netlify.app/"
+    }
+  },
+  {
+    "name": "CURE LOCATOR",
+    "desc": "Cure Locator is an Android app assisting users in finding top-rated nearby doctors. Users can access detailed doctor profiles, showcasing their education, ratings, location, and contact details.",
+    "image": "cure",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Suryakant018/Cure-Locator"
+    }
+  }
+  
+]
